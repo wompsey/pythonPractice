@@ -3,6 +3,7 @@ from pathlib import Path
 from src.maze import Maze
 from src.mazeRobot import MazeRobot
 
+print("hello world")
 
 def main():
     base_dir = Path(__file__).parent
